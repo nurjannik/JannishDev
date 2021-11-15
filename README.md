@@ -4,9 +4,9 @@
  - Instagram: @byraudy
 
   🔭 | My Projects
- - @TimeNation
- - @KotoriNetwork
- - @KotoriClient
+ - TimeNation.net
+ - kotori.network
+ - KotoriClient
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
