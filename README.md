@@ -5,8 +5,8 @@
 
   🔭 | My Projects
  - TimeNation.net
- - kotori.network
  - KotoriClient
+ - Coming soon
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
