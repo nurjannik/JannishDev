@@ -6,7 +6,11 @@
   🔭 | My Projects
  - TimeNation.net
  - KotoriClient
- - Coming soon
+
+  🌱 | I’m currently learning
+ - Kotlin
+ - App Development
+ - Software Development
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
