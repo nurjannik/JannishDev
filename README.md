@@ -3,10 +3,6 @@
  - Twitter: @ByRaudy
  - Instagram: @byraudy
 
- 
-  ⚡ Fun facts about me
- -  
-
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
