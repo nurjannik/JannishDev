@@ -9,8 +9,7 @@
 
   🌱 | I’m currently learning
  - Kotlin
- - App Development
- - Software Development
+ - TypeScript
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
