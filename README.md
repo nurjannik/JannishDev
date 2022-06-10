@@ -2,6 +2,7 @@
  - Discord: ByRaudy#4994
  - Twitter: @ByRaudy
  - Instagram: @byraudy
+ - About me: https://kotori.network/byraudy
 
   🔭 | My Projects
  - TimeNation.net
