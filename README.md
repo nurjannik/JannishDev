@@ -6,7 +6,7 @@
 
   🔭 | My Projects
  - TimeNation.net
- - KotoriClient
+ - kotori.network
 
   🌱 | I’m currently learning
  - Kotlin
