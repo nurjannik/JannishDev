@@ -5,8 +5,8 @@
  - About me: https://kotori.network/byraudy
 
   🔭 | My Projects
- - TimeNation.net
- - kotori.network
+ - [TimeNation.net](https://github.com/TimeNation)
+ - kotori.network(https://github.com/kotorinetwork)
 
   🌱 | I’m currently learning
  - Kotlin
