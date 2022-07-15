@@ -10,7 +10,7 @@
 
   🌱 | I’m currently learning
  - Kotlin
- - TypeScript
+ - PHP
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
