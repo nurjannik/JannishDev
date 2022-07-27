@@ -8,16 +8,10 @@
  - Private Projects
 
  ⚡ | Things i can
- - Java
- - Kotlin
- - HTML
- - CSS
- - RabbitMQ
- - MySQL
- - JDA
-
-  🌱 | I’m currently learning
- - PHP
+ - Normal: Java & MySQL
+ - Web: HTML, CSS & learning Php
+ - App: Kotlin & RabbitMQ 
+ - APIs: Spigot, BungeeCord, Velocity and JDA
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
