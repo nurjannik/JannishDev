@@ -1,7 +1,7 @@
   📫 | How to reach me?
- - Discord: ByRaudy#4994
- - Twitter: @ByRaudy
- - Instagram: @byraudy
+ - Discord: Jannik#9708
+ - Twitter: [@Jxnnikk](https://twitter.com/Jxnnikk)
+ - Instagram: [@jxnnik.official](https://www.instagram.com/jxnnik.official/)
 
   🔭 | My Projects
  - Open Source projects like [VelocitySystem](https://github.com/ByRaudy/VelocitySystem)
