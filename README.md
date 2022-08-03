@@ -4,7 +4,7 @@
  - Instagram: [@jxnnik.official](https://www.instagram.com/jxnnik.official/)
 
   🔭 | My Projects
- - Open Source projects like [VelocitySystem](https://github.com/Jxnnikk/VelocitySystem)
+ - Open Source projects like [VelocitySystem](https://github.com/Jxnnikk/VelocitySystem) and [CustomAdvancementFrame](https://github.com/Jxnnikk/CustomAdvancementFrame)
  - Private Projects
 
  ⚡ | Things i can
