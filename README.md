@@ -10,7 +10,8 @@
  ⚡ | Things i can
  - Normal: Java & MySQL
  - Web: HTML, CSS & learning Php
- - App: Kotlin & RabbitMQ 
+ - App: Kotlin
+ - Networking: Netty & RabbitMQ
  - APIs: Spigot, BungeeCord, Velocity and JDA
 
 <!-- 🔭 I’m currently working on ...
