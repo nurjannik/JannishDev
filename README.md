@@ -11,7 +11,7 @@
  - Normal: Java & MySQL
  - Web: HTML, CSS & learning Php
  - App: Kotlin
- - Networking: Netty & RabbitMQ
+ - Networking: Netty(Learning & Doing) & RabbitMQ
  - APIs: Spigot, BungeeCord, Velocity and JDA
 
 <!-- 🔭 I’m currently working on ...
