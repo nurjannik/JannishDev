@@ -5,6 +5,7 @@
 
   🔭 | My Projects
  - Open Source projects like [VelocitySystem](https://github.com/Jxnnikk/VelocitySystem) and [CustomAdvancementFrame](https://github.com/Jxnnikk/CustomAdvancementFrame)
+ - [TeriumCloud](https://github.com/TeriumService)
  - Private Projects
 
  ⚡ | Things i can
