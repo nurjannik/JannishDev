@@ -1,11 +1,11 @@
   📫 | How to reach me?
- - Discord: Jannik#9708
- - Twitter: [@Jxnnikk](https://twitter.com/Jxnnikk)
+ - Discord: Jannish#9708
+ - Twitter: [@ByRaudy](https://twitter.com/ByRaudy)
  - Instagram: [@jxnnik.official](https://www.instagram.com/jxnnik.official/)
 
   🔭 | My Projects
- - Open Source projects like [VelocitySystem](https://github.com/Jxnnikk/VelocitySystem) and [CustomAdvancementFrame](https://github.com/Jxnnikk/CustomAdvancementFrame)
- - [TeriumCloud](https://github.com/TeriumService)
+ - Open Source projects like [VelocitySystem](https://github.com/ByRaudy/VelocitySystem) and [CustomAdvancementFrame](https://github.com/ByRaudy/CustomAdvancementFrame)
+ - [TeriumCloud](https://github.com/TeriumCloud)
  - Private Projects
 
  ⚡ | Things i can
