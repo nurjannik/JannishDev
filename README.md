@@ -9,10 +9,11 @@
  - Private Projects
 
  ⚡ | Things i can
- - Normal: Java & MySQL
+ - Normal: Java
  - Web: HTML, CSS & learning Php
  - App: Kotlin
  - Networking: Netty(Learning & Doing) & RabbitMQ
+ - SQL: MySQL
  - APIs: Spigot, BungeeCord, Velocity and JDA
 
 <!-- 🔭 I’m currently working on ...
