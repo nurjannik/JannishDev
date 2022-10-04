@@ -1,24 +1,17 @@
 <br />
 <p align="center">
 
-  <h3 align="center">ByRaudy | Jannik H.</h3>
+  <h3 align="center">Jannish(Dev) | Jannik H.</h3>
   <p align="center">
     Developer from germany, 16 years old and founder of <a href="https://github.com/TeriumCloud/Terium">TeriumCloud</a>
     <br>
-    <a href="https://twitter.com/ByRaudy">Twitter</a>
+    <a href="https://twitter.com/JannishDev">Twitter</a>
     -
     <a href="https://www.instagram.com/jxnnik.official/">Instagram</a>
     -
-    <a href="https://github.com/ByRaudy?tab=repositories">Repositories</a>
+    <a href="https://github.com/JannishDev?tab=repositories">Repositories</a>
     </p>
   <br>
-  <p align="center">
-  Developer at
-  </p>
-  <div align="center">
-  <a href="https://neptunsworld.com"><img align="center" alt="neptunsworld" width="45px" src="https://avatars.githubusercontent.com/u/105994898?s=200&v=4"></a>
-  & <a href="https://cafestu.be"><img align="center" alt="cafestube" width="45px" src="https://avatars.githubusercontent.com/u/73401500?s=200&v=4"></a>
-  </div>
   <br>
   <p align="center">
   My knowlegend:
@@ -43,30 +36,3 @@
   </div>
   </p> 
 </p>
-
-<!--📫 | How to reach me?
- - Discord: Jannish#9708
- - Twitter: [@ByRaudy](https://twitter.com/ByRaudy)
- - Instagram: [@jxnnik.official](https://www.instagram.com/jxnnik.official/)
-
-  🔭 | My Projects
- - Open Source projects like [VelocitySystem](https://github.com/ByRaudy/VelocitySystem) and [CustomAdvancementFrame](https://github.com/ByRaudy/CustomAdvancementFrame)
- - [TeriumCloud](https://github.com/TeriumCloud)
- - Private Projects
-
- ⚡ | Things i can
- - Normal: Java
- - Web: HTML, CSS & learning Php
- - App: Kotlin
- - Networking: Netty(Learning & Doing) & RabbitMQ
- - SQL: MySQL
- - APIs: Spigot, BungeeCord, Velocity and JDA
-
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
